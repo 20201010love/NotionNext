@@ -204,11 +204,11 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '陪你度过漫长岁月',
-      artist: '陈奕迅',
-      url: 'https://m701.music.126.net/20230928154258/7efdc1658a4262fbd37185e063b3e6e4/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/14096494339/af3a/b9c0/603d/a8383d9a055ce44e0f44253d5d87d663.m4a',
+      name: '风を共に舞う気持ち',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
       cover:
-            'https://img1.doubanio.com/lpic/s28316373.jpg'
+            'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
       name: '王都グランセル',
