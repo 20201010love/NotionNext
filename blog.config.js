@@ -206,7 +206,7 @@ const BLOG = {
     {
       name: '陪你度过漫长岁月',
       artist: '陈奕迅',
-      url: 'https://m801.music.126.net/20231005122552/99f7cbfe81d0bbcfb20776a9789e9699/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096496471/44ce/f0ee/09e6/9be151e491e3d59ebc21a1267945ee37.mp3',
+      url: 'https://mp3.haoge500.com/upload/2015/11/23/667931.mp3',
       cover:
             'https://img1.doubanio.com/lpic/s28316373.jpg'
     }
